@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T10:14:52.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="OADEtzZMVsQRxw0XyHZH" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T10:14:59.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qwdT1ZO93ZtDBPVkFJFx" version="20.8.3" type="github">
   <diagram id="jxSS41EcVF4YZttKIZIM" name="Sayfa -1">
     <mxGraphModel dx="2514" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -426,9 +426,6 @@
             <mxPoint x="780" y="875" as="sourcePoint" />
             <mxPoint x="523" y="745" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="s26FXijDcVcrJVznVB5B-4" value="ilteke" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=10;fontColor=#E6E6E6;fillColor=#368700;" vertex="1" parent="1">
-          <mxGeometry x="560" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
