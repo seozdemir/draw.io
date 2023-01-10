@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T10:17:45.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nzLEXKtKwD54Xh-fDdB5" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T10:19:26.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hmJnGMqimdNPNBXmvoO8" version="20.8.3" type="github">
   <diagram id="jxSS41EcVF4YZttKIZIM" name="Sayfa -1">
-    <mxGraphModel dx="2514" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jc7tVu_agUngAxPrbzi3-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#F3E6FA;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="jc7tVu_agUngAxPrbzi3-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#FFF5FF;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-62.5" y="62.5" width="802.5" height="752.5" as="geometry" />
         </mxCell>
         <mxCell id="kzVESOwCpPis6eRwZn5d-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#F3E6FA;gradientColor=none;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
